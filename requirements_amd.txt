@@ -23,7 +23,6 @@ tensorboard
 transformers==4.48.*
 tqdm
 wandb
-urllib3<2
 
 # API
 SpeechRecognition==3.10.0
